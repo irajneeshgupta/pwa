@@ -3,6 +3,8 @@
 Creating compelling content for a Magento Progressive Web App (PWA) service page requires highlighting the benefits of PWA technology, how it transforms the eCommerce experience, and why your service is the right choice for customers looking to upgrade or build their Magento store with PWA. Here's a brief content template that you can customize to fit your brand voice and specific service offerings:
 
 ---
+## Live store link:
+https://www.supplyz.com
 
 ### Transform Your eCommerce Experience with Magento2 PWA
 
@@ -41,3 +43,6 @@ Embrace the future of eCommerce with our Magento PWA service. Contact us today t
 - **Call to Action**: Ensure there are clear calls to action (CTAs) throughout the page, inviting visitors to get in touch, schedule a demo, or learn more about specific services.
 
 Adapt and expand upon this template based on your unique strengths, client needs, and the specifics of your Magento PWA offering to create an engaging and persuasive service page.
+
+###Contact Us:
+er.rajneeshgupta@gmail.com
