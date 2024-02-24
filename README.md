@@ -6,6 +6,9 @@ Creating compelling content for a Magento Progressive Web App (PWA) service page
 ## Live store link:
 https://www.supplyz.com
 
+## Contact Us:
+er.rajneeshgupta@gmail.com
+
 ### Transform Your eCommerce Experience with Magento2 PWA
 
 **Unlock the Future of Online Shopping**
@@ -44,5 +47,4 @@ Embrace the future of eCommerce with our Magento PWA service. Contact us today t
 
 Adapt and expand upon this template based on your unique strengths, client needs, and the specifics of your Magento PWA offering to create an engaging and persuasive service page.
 
-###Contact Us:
-er.rajneeshgupta@gmail.com
+
